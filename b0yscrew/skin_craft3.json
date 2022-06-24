@@ -3,17 +3,17 @@
   [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
       "main_ads_rewards":"",
-      "backup_ads_banner":"b195f8dd8ded45fe847ad89ed1d016da",
-      "backup_ads_intertitial":"b195f8dd8ded45fe847ad89ed1d016da",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
       "survey_api_key":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -844,167 +844,6 @@
           "id":128,
           "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin128.png",
           "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin128.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":129,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin129.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin129.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":130,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin130.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin130.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":131,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin131.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin131.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":132,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin132.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin132.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":133,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin133.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin133.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":134,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin134.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin134.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":135,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin135.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin135.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":136,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin136.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin136.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":137,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin137.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin137.png",
-         "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":138,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin138.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin138.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":139,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin139.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin139.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":140,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin140.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin140.png",
-          "name_skin":"Boys Pack"
-        }
-         ,
-        {
-          "id":141,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin1411.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin141.png",
-          "name_skin":"Boys Pack"
-        }
-         ,
-        {
-          "id":142,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin142.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin142.png",
-         "name_skin":"Boys Pack"
-        }
-         ,
-        {
-          "id":143,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin143.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin143.png",
-          "name_skin":"Boys Pack"
-        }
-         ,
-        {
-          "id":144,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin144.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin144.png",
-          "name_skin":"Boys Pack"
-        }
-         ,
-        {
-          "id":145,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin145.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin145.png",
-         "name_skin":"Boys Pack"
-        }
-         ,
-        {
-          "id":146,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin146.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin146.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":147,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin147.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin147.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":148,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin148.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin148.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":149,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin149.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin149.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":150,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin150.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin150.png",
-          "name_skin":"Boys Pack"
-        }
-        ,
-        {
-          "id":151,
-          "view_skin":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/thumb/skin151.png",
-          "skin_url":"https://raw.githubusercontent.com/Selalubersamanya7789/leesoo/main/b0yscrew/png/skin151.png",
           "name_skin":"Boys Pack"
         }
   ],
